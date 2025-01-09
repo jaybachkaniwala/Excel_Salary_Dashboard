@@ -21,15 +21,18 @@ The dataset used for this project contains real-world data science job informati
 ## Excel Skills Used
 The following Excel skills were utilized for analysis:
 
-1. **🔣 Formulas & Functions**
+1. **🧹Data Cleaning**
+- Initial inspection of the dataset to identify errors and inconsistencies, ensuring the data is accurate, organized, and ready for analysis by removing duplicates and fixing incorrect formatting.
+
+2. **🔣 Formulas & Functions**
 - Logical Functions
 - Array Formulas
 - XLOOKUP
 - Text Functions
   
-2. **✅🚫 Data Validation**
+3. **✅🚫 Data Validation**
 
-3. **📊 Charts**
+4. **📊 Charts**
 - Bar Charts
 - Map Chart
 
